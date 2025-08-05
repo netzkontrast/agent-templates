@@ -1,0 +1,6 @@
+llm:
+  provider: openrouter
+  # Wählen Sie ein Standardmodell, z.B. anthropic/claude-3.5-sonnet
+  model: 'anthropic/claude-3.5-sonnet'
+  # Fügen Sie Ihren API-Key sicher hinzu (vorzugsweise über Umgebungsvariablen)
+  api_key: ${OPENROUTER_API_KEY}
