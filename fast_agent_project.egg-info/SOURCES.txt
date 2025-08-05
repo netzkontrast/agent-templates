@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+fast_agent_project.egg-info/PKG-INFO
+fast_agent_project.egg-info/SOURCES.txt
+fast_agent_project.egg-info/dependency_links.txt
+fast_agent_project.egg-info/requires.txt
+fast_agent_project.egg-info/top_level.txt
