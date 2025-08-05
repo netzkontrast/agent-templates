@@ -1,0 +1,10 @@
+# Configuration for fast-agent
+# This file can be used to configure agents, tools, and other settings.
+
+# Example configuration:
+# agent:
+#   name: "my-agent"
+#   role: "assists with tasks"
+#   goals:
+#     - "complete tasks efficiently"
+#     - "provide helpful responses"
